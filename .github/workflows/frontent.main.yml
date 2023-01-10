@@ -20,12 +20,12 @@ jobs:
       uses: azure/CLI@v1
       with:
         inlineScript: |
-            az storage blob upload-batch --account-name "lucasneedsmango@outlook.com --auth-mode key -d '$web' -s frontend/
+            az storage blob upload-batch --account-name azureresumelih --auth-mode key -d '$web' -s frontend/
     - name: Purge CDN endpoint
       uses: azure/CLI@v1
       with:
         inlineScript: |
-           az cdn endpoint purge --content-paths  "/*" --profile-name ""lucas" --name ""lucas" --resource-group "azureresume-rg"
+           az cdn endpoint purge --content-paths  "/*" --profile-name "lucashendersonazureresume" --name ""lucashendersonazureresume" --resource-group "azureresume-rg"
 
   # Azure logout
     - name: logout
