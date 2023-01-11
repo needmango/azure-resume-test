@@ -2,7 +2,7 @@ window.addEventListener('DOMContentLoaded', (event) =>{
     getVisitCount();
 })
 
-const functionApiUrl = 'https://www.lucashenderson.com';
+const functionApiUrl = 'https://azureresumecount.azurewebsites.net/api/GetResumeCounter';
 // const localfunctionApi = 'http://localhost:7071/api/GetResumeCounter';
 
 const getVisitCount = () => {
