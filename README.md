@@ -8,3 +8,7 @@ My own azure resume, following [ACG project video.](https://www.youtube.com/watc
 - main.js contains visitor counter code.
 
 ### See other README in api and frontend folders
+
+### Visit Site:
+
+lucashenderson.com
