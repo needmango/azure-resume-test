@@ -9,6 +9,6 @@ My own azure resume, following [ACG project video.](https://www.youtube.com/watc
 
 ### See other README in api and frontend folders
 
-### Visit Site:
+### [Visit the finished product here](https://lucashenderson.com):
 
-lucashenderson.com
+
